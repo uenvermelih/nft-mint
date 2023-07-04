@@ -26,7 +26,7 @@ export default function Home() {
 
         <div className="imageSide">
           <img 
-          className="iamge"
+          className="image"
           src={preview}
           alt="Emoji Faces preview"
           />
